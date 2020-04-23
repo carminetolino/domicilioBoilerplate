@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: 
 
-Sitemap: https://montorodomicilio.it/sitemap.xml
+Sitemap: https://montorodomicilio.netlify.app/sitemap.xml
