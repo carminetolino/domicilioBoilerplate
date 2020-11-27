@@ -6,7 +6,7 @@ export default function Form() {
 					<input type="hidden" name="form-name" value="contact" />
 				</p>
 				<p class="my-5">
-					<label class="lock text-gray-800 ml-2 font-bold md:text-right mb-1 md:mb-0 pr-4">Nome attività
+					<label class="lock text-gray-800 ml-2 font-bold md:text-right mb-1 md:mb-0 pr-4">Nome attivit&agrave;
 						<input class="bg-white focus:outline-none focus:shadow-outline border border-gray-500 rounded-lg py-2 px-4 block w-full appearance-none leading-normal" required type="text" name="name" />
 					</label>
 				</p>
@@ -26,17 +26,18 @@ export default function Form() {
 					</label>
 				</p>
 				<p class="my-5">
-					<label class="block text-gray-800 ml-2 font-bold md:text-right mb-1 md:mb-0 pr-4">Consegna in tutta la citt&agrave;</label>
-					<div class="flex">
-						<label class="flex flex-col mr-5 px-2">
-							<span>Si</span>
-							<input type="radio" name="province-delivery" required value="yes" />
-						</label>
-						<label class="flex flex-col mr-5 px-2">
-							<span>No</span>
-							<input type="radio" name="province-delivery" required value="no" />
-						</label>
-					</div>
+					<label class="block text-gray-800 ml-2 font-bold md:text-right mb-1 md:mb-0 pr-4">Consegna in tutta la citt&agrave;
+                  <div class="flex">
+                     <label class="flex flex-col mr-5 px-2">
+                        <span>Si</span>
+                        <input type="radio" name="province-delivery" required value="yes" />
+                     </label>
+                     <label class="flex flex-col mr-5 px-2">
+                        <span>No</span>
+                        <input type="radio" name="province-delivery" required value="no" />
+                     </label>
+                  </div>
+               </label>
 				</p>
 				<p class="my-5">
 					<label class="lock text-gray-800 ml-2 font-bold md:text-right mb-1 md:mb-0 pr-4">Note
