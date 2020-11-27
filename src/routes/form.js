@@ -26,7 +26,7 @@ export default function Form() {
 					</label>
 				</p>
 				<p class="my-5">
-					<label class="block text-gray-800 ml-2 font-bold md:text-right mb-1 md:mb-0 pr-4">Consegna in tutta la citt&agrave;
+					<label class="block text-gray-800 ml-2 font-bold md:text-left mb-1 md:mb-0 pr-4">Consegna in tutta la citt&agrave;
                   <div class="flex">
                      <label class="flex flex-col mr-5 px-2">
                         <span>Si</span>
