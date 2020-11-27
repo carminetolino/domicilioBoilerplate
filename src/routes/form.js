@@ -6,7 +6,7 @@ export default function Form() {
 					<input type="hidden" name="form-name" value="contact" />
 				</p>
 				<p class="my-5">
-					<label class="lock text-gray-800 ml-2 font-bold md:text-right mb-1 md:mb-0 pr-4">Nome
+					<label class="lock text-gray-800 ml-2 font-bold md:text-right mb-1 md:mb-0 pr-4">Nome attività
 						<input class="bg-white focus:outline-none focus:shadow-outline border border-gray-500 rounded-lg py-2 px-4 block w-full appearance-none leading-normal" required type="text" name="name" />
 					</label>
 				</p>
